@@ -6,7 +6,8 @@
 ## Instructions
 
 Make the tests pass.
-{#js--download-ide}![](http://achievethegrin.com/wp-content/uploads/2015/07/Start-Personality-Test-Button.png)
+
+<img id="js--download-ide" src="http://achievethegrin.com/wp-content/uploads/2015/07/Start-Personality-Test-Button.png">
 
 ### Part 1: Do Some Stuff
 
